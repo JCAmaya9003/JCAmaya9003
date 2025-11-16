@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hola, soy Juan Carlos Amaya 👋
 
-<!--
-**JCAmaya9003/JCAmaya9003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Computación en la UCA (Universidad Centroamericana José Simeón Cañas), El Salvador.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy enfocado en el desarrollo y administración de bases de datos. Me interesa trabajar en proyectos que involucren el diseño y optimización de sistemas de información.
+
+Cuando todo parece estar en contra, ahí es cuando más cuenta seguir adelante.
+
+**Actualmente aprendiendo:** C++, Kotlin
+
+**Intereses:** Gaming, tocar guitarra, leer, gimnasio
+
+---
+
+## Tecnologías que manejo
+
+**Lenguajes:**
+- Java, JavaScript, SQL
+- HTML, CSS
+
+**Frameworks/Librerías:**
+- React, Node.js
+
+**Herramientas:**
+- Git, Docker
+- Visual Studio, IntelliJ IDEA, Android Studio
+- Oracle SQL Developer
+- Postman, Insomnia
+- Photoshop, DaVinci Resolve
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&bg_color=0d1117&title_color=8B0000&text_color=c9d1d9&icon_color=8B0000&border_color=30363d" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&bg_color=0d1117&title_color=8B0000&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+</p>
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-amaya-hern%C3%A1ndez-575571363)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcamayah2005@gmail.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tuusuario&color=8B0000&style=flat-square" alt="Profile views" />
+</p>
