@@ -1,6 +1,6 @@
 # Hola, soy Juan Carlos Amaya 👋
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 Estudiante de Ingeniería en Computación en la UCA (Universidad Centroamericana José Simeón Cañas), El Salvador.
 
@@ -12,10 +12,11 @@ Estoy enfocado en el desarrollo y administración de bases de datos. Me interesa
 
 **Actualmente aprendiendo:** C++, Kotlin
 
-**Intereses:**
+**Intereses:** 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV3ZGd4aGRuOXN4M2VoZHNzaHR3bnN5N3l4OGJxdGJhZTJxdGRwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="50"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzl6dGpmZDJ0Ym5iOGl5enN4ZHc5ZDRxbXNiYmxqN2E3YTF6MWozNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9EdzfOSgfyueLm/giphy.gif" width="50"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtyeGR3Y3pteWdqYjNkMG5qcWg0ZHJiZnlsMjl6Y2txcm0zMXpuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" width="50"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk4aDRoMnBrMGt5NGdhZWgwZHYxdGdoOXp0ZWN4c3Z1OW1kMjNnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjjnLSlgZ2oXS/giphy.gif" width="50">
-
+<img src="hhttps://tenor.com/es-SV/view/cat-gaming-def-ai-gif-3507828868060036475" width="50"> 
+<img src="https://tenor.com/es-SV/view/cat-guitar-cat-playing-guitar-gif-10769414564983762937" width="50"> 
+<img src="https://tenor.com/es-SV/view/gym-era-gif-9216687370725525831" width="50"> 
 ---
 
 ## Tecnologías que manejo
