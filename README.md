@@ -14,9 +14,9 @@ Estoy enfocado en el desarrollo y administración de bases de datos. Me interesa
 
 **Intereses:** 
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN4djhiZGc0bHNmZmo5ajNxcDM0bmpqcnlxaXkxMzRhMXc1Yjl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hoKQifMan35m/giphy.gif" width="50"> 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVocGJud3Z6OHBwbnN5czZneDVtZWthY2R0eGhmNXE3YXg5a2QybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xotWxiN3xNNHtcrkgN/giphy.gif" width="50"> 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlhbDF1NHlvbzR3Mm8xNXllZjdvc3NvOXM1cGo5ZGE3Nnowc3N4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSoIC0aHgHKCg3NqDn/giphy.gif" width="50"> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN4djhiZGc0bHNmZmo5ajNxcDM0bmpqcnlxaXkxMzRhMXc1Yjl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hoKQifMan35m/giphy.gif" width="150"> 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVocGJud3Z6OHBwbnN5czZneDVtZWthY2R0eGhmNXE3YXg5a2QybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xotWxiN3xNNHtcrkgN/giphy.gif" width="150"> 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlhbDF1NHlvbzR3Mm8xNXllZjdvc3NvOXM1cGo5ZGE3Nnowc3N4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSoIC0aHgHKCg3NqDn/giphy.gif" width="150"> 
 ---
 
 ## Tecnologías que manejo
