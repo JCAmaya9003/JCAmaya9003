@@ -14,9 +14,9 @@ Estoy enfocado en el desarrollo y administración de bases de datos. Me interesa
 
 **Intereses:** 
 
-<img src="hhttps://tenor.com/es-SV/view/cat-gaming-def-ai-gif-3507828868060036475" width="50"> 
-<img src="https://tenor.com/es-SV/view/cat-guitar-cat-playing-guitar-gif-10769414564983762937" width="50"> 
-<img src="https://tenor.com/es-SV/view/gym-era-gif-9216687370725525831" width="50"> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN4djhiZGc0bHNmZmo5ajNxcDM0bmpqcnlxaXkxMzRhMXc1Yjl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hoKQifMan35m/giphy.gif" width="50"> 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVocGJud3Z6OHBwbnN5czZneDVtZWthY2R0eGhmNXE3YXg5a2QybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xotWxiN3xNNHtcrkgN/giphy.gif" width="50"> 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlhbDF1NHlvbzR3Mm8xNXllZjdvc3NvOXM1cGo5ZGE3Nnowc3N4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSoIC0aHgHKCg3NqDn/giphy.gif" width="50"> 
 ---
 
 ## Tecnologías que manejo
